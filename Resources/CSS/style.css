@@ -12,6 +12,7 @@ header {
 
 body {
   text-align: center;
+  font-family: helvetica;
 }
 
 nav {
@@ -21,24 +22,20 @@ nav {
 }
 
 h2 {
-  font-family: helvetica;
   font-size: 32px;
   font-weight: bold;
 }
 
 h3 {
-  font-family: helvetica;
   font-size: 23px;
   font-weight: bold;
 }
 
 p {
-  font-family: helvetica;
   font-size: 14px;
 }
 
 h4 {
-  font-family: helvetica;
   font-size: 32px;
   color: white;
 }
